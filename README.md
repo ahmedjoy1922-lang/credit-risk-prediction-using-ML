@@ -56,8 +56,8 @@ requirements.txt
 ## Run it locally
 
 ```bash
-git clone https://github.com/ahmedjoy1922-lang/credit-risk-predictor.git
-cd credit-risk-predictor
+git clone https://github.com/ahmedjoy1922-lang/credit-risk-prediction-using-ML.git
+cd credit-risk-prediction-using-ML
 pip install -r requirements.txt
 streamlit run app.py
 ```
